@@ -3,13 +3,19 @@
 
 ## Members
 
-Name | Position
------------- | -------------
-Jamal Atif | Full Professor
-Benjamin Negrevergne | Associate Professor
+### Parmenent members
 
+* Jamal Atif (Full Professor)
+* Benjamin Negrevergne (Associate Professor)
 
+### Phd Students
 
+* Alexandre Araujo 
+
+### Alumni
+
+* Anne Morvan
+* Fabien Labernia
 
 
 You can use the [editor on GitHub](https://github.com/ml-lamsade/ml-lamsade.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
