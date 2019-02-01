@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ml@lamsade
+title: Software
 ---
 
 * software 1

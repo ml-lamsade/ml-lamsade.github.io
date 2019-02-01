@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ml@lamsade
+title: News -- Seminars 
 ---
     
 {% for post in site.posts %}
