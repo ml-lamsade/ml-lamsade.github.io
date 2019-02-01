@@ -1,3 +1,5 @@
 name: ml@lamsade
 markdown: kramdown
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+collections:
+  - members
