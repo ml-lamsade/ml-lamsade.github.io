@@ -1,6 +1,7 @@
-
-
-### Le projet Machine Learning au Lamsade
+---
+layout: default
+title: Machine learning @ lamsade
+---
 
 L’équipe-projet « Apprentissage automatique » du LAMSADE s’intéresse aux aspects théoriques, algorithmiques et applicatifs de l’apprentissage automatique (Machine Learning).
 Sur le volet théorique, l’équipe étudie (i) la robustesse face aux attaques adversariales des réseaux de neurones profonds (deep learning), (ii) l’apprentissage causal, (iii) la confidentialité différentielle (Differential Privacy) (iv) les liens entre la théorie des jeux, l’apprentissage adversarial (Generative Adversarial Networks) et l’apprentissage en ligne (v) la parcimonie pour l’interprétabilité des modèles d’apprentissage et (vi) l’apprentissage par renforcement.
