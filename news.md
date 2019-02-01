@@ -1,10 +1,10 @@
 ---
 layout: default
-title: News -- Seminars 
+title: News & seminars 
 ---
     
 {% for post in site.posts %}
-    * {{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}
+    * {{ post.date | date_to_string }} <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}
 {% endfor %}
 
 
