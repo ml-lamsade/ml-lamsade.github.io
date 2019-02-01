@@ -1,6 +1,6 @@
-## Welcome to ml@lamsade
 
-### Description
+
+### Le projet Machine Learning au Lamsade
 
 L’équipe-projet « Apprentissage automatique » du LAMSADE s’intéresse aux aspects théoriques, algorithmiques et applicatifs de l’apprentissage automatique (Machine Learning).
 Sur le volet théorique, l’équipe étudie (i) la robustesse face aux attaques adversariales des réseaux de neurones profonds (deep learning), (ii) l’apprentissage causal, (iii) la confidentialité différentielle (Differential Privacy) (iv) les liens entre la théorie des jeux, l’apprentissage adversarial (Generative Adversarial Networks) et l’apprentissage en ligne (v) la parcimonie pour l’interprétabilité des modèles d’apprentissage et (vi) l’apprentissage par renforcement.
@@ -10,14 +10,12 @@ Enfin, l’équipe applique et déploie ses algorithmes, souvent avec des parten
 L’équipe a tissé des collaborations soutenues avec des partenaires académiques et industriels dont : Google Brain NY, Facebook AI Research Paris, Wavestone, Adway, CEA, Riken Institute, USP, etc.
 
 
-
-
 ### Members
 
 #### Parmenent members
 
 * Jamal Atif (Full Professor)
-* Benjamin Negrevergne (Associate Professor)
+* Benjamin Negrevergne (Associate Professor)
 
 #### Phd Students
 
@@ -28,39 +26,3 @@ L’équipe a tissé des collaborations soutenues avec des partenaires académiq
 * Anne Morvan
 * Fabien Labernia
 
-
-You can use the [editor on GitHub](https://github.com/ml-lamsade/ml-lamsade.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ml-lamsade/ml-lamsade.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
